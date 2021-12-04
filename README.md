@@ -16,7 +16,7 @@ File storage in paper with hexadecimal numbers and four bits font.
 
 FourBits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FourBits
 
-### File encoding as pdf for printing:
+### File encoding as PDF for printing:
 
 \# file2pdf.sh file file.pdf
 
