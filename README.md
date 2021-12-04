@@ -1,5 +1,5 @@
 # HexImage
-File storage in paper with hexadecimal numbers.
+File storage in paper with hexadecimal numbers and four bits font.
 
 ## Usage:
 
