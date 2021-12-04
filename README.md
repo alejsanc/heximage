@@ -8,10 +8,10 @@ File storage in paper with hexadecimal numbers.
 \# mkdir /usr/share/fonts/truetype/fourbits\
 \# cp FourBits.ttf /usr/share/fonts/truetype/fourbits
 
-\# mkdir /usr/share/fonts/opentype/fourbits/\
-\# cp FourBits.otf /usr/share/fonts/opentype/fourbits/
+\# mkdir /usr/share/fonts/opentype/fourbits\
+\# cp FourBits.otf /usr/share/fonts/opentype/fourbits
 
-\# cp FourBits.afm /usr/share/enscript/afm/\
+\# cp FourBits.afm /usr/share/enscript/afm\
 \# vi /usr/share/enscript/afm/font.map
 
 FourBits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FourBits
