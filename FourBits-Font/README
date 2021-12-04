@@ -1,11 +1,23 @@
 FOURBITS FONT - www.cuadernoinformatica.com
+-------------------------------------------
 
 The FourBits font allows you to print hexadecimal characters in a format
-easily recognizable by software. Each character is made up of four squares and
-each square represents one bit. Four bits allow us to represent the sixteen 
-characters of the hexadecimal system.
+easily recognizable by software. Each character is made up of four squares
+and each square represents one bit. Four bits allow us to represent the
+sixteen characters of the hexadecimal system.
 
 0   1   2   3   4   5   6   7   8   9   A   B   C   D   E   F
 --------------------------------------------------------------
 00  00  00  00  01  01  01  01  10  10  10  10  11  11  11  11
 00  01  10  11  00  01  10  11  00  01  10  11  00  01  10  11
+
+Included Files:
+
+FourBits.sfd - Font Forge Spline Font Database
+FourBits.afm - Adobe Font Metrics
+FourBits.ttf - True Type Font
+FourBits.otf - Open Type Font
+
+More Info:
+
+https://github.com/alejsanc/heximage
