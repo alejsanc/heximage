@@ -1,2 +1,2 @@
 # HexImage
-File writing in images with hexadecimal numbers
+File storage in paper with hexadecimal numbers.
