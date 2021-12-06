@@ -22,7 +22,7 @@ FourBits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \# file2pdf.sh file file.pdf
 
-<img src="https://media.cuadernoinformatica.com/imagenes/grabacion-de-archivos-en-papel/atril-archivo-pdf-hexadecimal-fourbits.jpg"/>
+<img src="https://media.cuadernoinformatica.com/imagenes/grabacion-de-archivos-en-papel/atril-archivo-pdf-hexadecimal-fourbits-en.jpg"/>
 
 ### File decoding from scanned image for file recovery:
 
